@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/15953852797406592.png</file>
+        <file>images/background.png</file>
+        <file>images/background.jpg</file>
+        <file>icon/chat.jpg</file>
+        <file>icon/defaultheadpicture.jpg</file>
+        <file>icon/expression.jpg</file>
+        <file>icon/file.jpg</file>
+        <file>icon/search.jpg</file>
+        <file>icon/setting.jpg</file>
+    </qresource>
+</RCC>
